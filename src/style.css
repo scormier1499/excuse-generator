@@ -1,8 +1,14 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
 .wrap {
-  height: 94.4vh;
+  height: 80.4vh;
   width: 100vw;
 }
 body {
-  background-color: rgb(134, 202, 202);
+  background-image: url("https://images.template.net/wp-content/uploads/2015/11/10150728/ChalkBoard-Texture-Free-Download.gif");
+  height: 900px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  color: white;
 }

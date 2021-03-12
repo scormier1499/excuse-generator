@@ -12,3 +12,7 @@ body {
   position: relative;
   color: white;
 }
+
+.chalk-text {
+  font-family: "Fredericka the Great", cursive;
+}

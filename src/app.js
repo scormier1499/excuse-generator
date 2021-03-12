@@ -8,7 +8,7 @@ import "./assets/img/4geeks.ico";
 window.onload = function() {
   //write your code here
 
-  let who = ["My Pokemon", "My snake", "My Kid", "My Neighbor"];
+  let who = ["My Pokemon", "My snake", "My kid", "My neighbor"];
   let action = ["captured", "swallowed", "shredded", "broke"];
   let what = ["monitor", "instructions", "the car"];
   let when = [
